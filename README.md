@@ -9,7 +9,7 @@
 ## Official PHP Code library for [Pepipost](http://www.pepipost.com/?utm_campaign=GitHubSDK&utm_medium=GithubSDK&utm_source=GithubSDK)
 This SDK contain methods for easily interacting with the Pepipost Email Sending API to send emails within few seconds.
  
-We are trying to make our libraries a Community Driven. To help us building right things in proper order we would request you to help us by sharing comments, creating new [issues](https://github.com/hellovikram/pepipost-php/issues) or [pull request](https://github.com/hellovikram/pepipost-php/pulls).
+We are trying to make our libraries a Community Driven. To help us building right things in proper order we would request you to help us by sharing comments, creating new [issues](https://github.com/pepipost/pepipost-sdk-php/issues) or [pull request](https://github.com/pepipost/pepipost-sdk-php/pulls).
 
 ## Table of Contents
 * [Installation](#installation)
@@ -24,9 +24,9 @@ We are trying to make our libraries a Community Driven. To help us building righ
 
 Inorder to make it Smooth we have Separated installation process with respective OS which will help you to go step by step without any interuption.
 
-1. [Build SDK on Windows without any IDE.](https://github.com/hellovikram/pepipost-php/blob/feature_x/pepipost-sdk-php/windows-Installation-1.md)
-2. [Build SDK on Windows/Linux with IDE.](https://github.com/hellovikram/pepipost-php/blob/feature_x/pepipost-sdk-php/windows-installation-2.md)
-3. [Build SDK on Linux.](https://github.com/hellovikram/pepipost-php/blob/feature_x/pepipost-sdk-php/linux-installation.md)
+1. [Build SDK on Windows without any IDE.](https://github.com/pepipost/pepipost-sdk-php/blob/feature_x/pepipost-sdk-php/windows-Installation-1.md)
+2. [Build SDK on Windows/Linux with IDE.](https://github.com/pepipost/pepipost-sdk-php/blob/feature_x/pepipost-sdk-php/windows-installation-2.md)
+3. [Build SDK on Linux.](https://github.com/pepipost/pepipost-sdk-php/blob/feature_x/pepipost-sdk-php/linux-installation.md)
 
 ### Prerequisites
 * 1. [PHP >=5.4.0](http://php.net/manual/en/install.php)
