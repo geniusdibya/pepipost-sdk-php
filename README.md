@@ -134,6 +134,8 @@ print_r(json_encode($response));
 | content | ```mandatory``` | This is the Emailbody you dezire to sent to recipient |
 | Settings | ```Optional``` | This enables or disables the configuration for an email |
 
+For more Information about the parameter we would recommend you to go through our [API docs](https://developers.pepipost.com/email-api/sendEmail)
+
 <a name="announcements"></a>
 # Announcements
 
