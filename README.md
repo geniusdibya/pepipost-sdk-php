@@ -127,7 +127,11 @@ print_r(json_encode($response));
 |-----------|------|-------------|
 | apiKey |  ``` Mandatory ```  | This is a unique string for authentication. Example '523326ed4sadasb39dfa932ff5fa84ed9ed8' |
 | body |  ``` Optional ```  | The body passed will be json format. |
-
+| personlization | ``` mandatory``` | This is an array of recipients and their metadata | 
+| FromEmail  | ```mandatory``` | The recipient mailid to whom you want to sent email |
+| fromname | ```Optional ```| The name of recipient to whom you are sending email|
+| subject | ```Optional``` | Recommended to Set Subject of Email |
+| content | ```mandatory``` | This is the Emailbody you dezire to sent to recipient |
 
 <a name="announcements"></a>
 # Announcements
