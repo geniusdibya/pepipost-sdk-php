@@ -132,6 +132,7 @@ print_r(json_encode($response));
 | fromname | ```Optional ```| The name of recipient to whom you are sending email|
 | subject | ```Optional``` | Recommended to Set Subject of Email |
 | content | ```mandatory``` | This is the Emailbody you dezire to sent to recipient |
+| Settings | ```Optional``` | This enables or disables the configuration for an email |
 
 <a name="announcements"></a>
 # Announcements
