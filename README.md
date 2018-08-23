@@ -53,19 +53,19 @@ Developers already familar with GIT, Composer and some of the other handy tools 
  
  2. Change directory to any new directory (Make directory test-- recommended).
  
- 3. [Download or Clone](https://github.com/hellovikram/pepipost-php/archive/feature_x.zip) the Pepipost Repository to the new directory and extract.
+ 3. [Download or Clone](https://github.com/pepipost/pepipost-sdk-php/archive/feature_x.zip) the Pepipost Repository to the new directory and extract.
  
  4. Check php version using **```php -v```**
  
  5. Check Composer version **```composer --version```**
  
- 6. Navigate to your directory where the pepipost-php library is extracted (using cd path\to\directory)
+ 6. Navigate to your directory where the pepipost-php-sdk library is extracted (using cd path\to\directory)
  
  7. Type **```composer install```** (this will install all the requirement needed to run this library -- Note: After installing, a vendor directory will get auto-created)
  
  8. Create a new test file in same directory **```test.php```**
  
- 9. Copy the code from [simpleUsage.md](https://github.com/hellovikram/pepipost-php/blob/feature_x/pepipost-sdk-php/simpleUsage.md) or [sampleExample](https://github.com/hellovikram/pepipost-php/blob/feature_x/pepipost-sdk-php/README.md#sample-usage) and paste in test.php.
+ 9. Copy the code from [simpleUsage.md](https://github.com/pepipost/pepipost-sdk-php/blob/feature_x/pepipost-sdk-php/simpleUsage.md) or [sampleExample](https://github.com/pepipost/pepipost-sdk-php/blob/feature_x/pepipost-sdk-php/README.md#sample-usage) and paste in test.php.
   
  10. Get your API key and Sending Domain from your Pepipost account. 
   
@@ -139,19 +139,19 @@ For more Information about the parameters we would like to recommend our [API do
 <a name="announcements"></a>
 # Announcements
 
-v3 has been released! Please see the [release notes](https://github.com/pepipost/pepipost-php/releases/tag/v3.0.0) for details.
+v3 has been released! Please see the [release notes](https://github.com/pepipost/pepipost-sdk-php/releases/tag/v3.0.0) for details.
 
-All updates to this library are documented in our [CHANGELOG](https://github.com/pepipost/pepipost-php/blob/master/CHANGELOG.md) and [releases](https://github.com/pepipost/pepipost-php/releases). For any queries, feel free to reach out us at dx@pepipost.com
+All updates to this library are documented in our [CHANGELOG](https://github.com/pepipost/pepipost-sdk-php/blob/master/CHANGELOG.md) and [releases](https://github.com/pepipost/pepipost-sdk-php/releases). For any queries, feel free to reach out us at dx@pepipost.com
 
 <a name="roadmap"></a>
 ## Roadmap
 
-If you are interested in the future direction of this project, please take a look at our open [issues](https://github.com/pepipost/pepipost-php/issues) and [pull requests](https://github.com/pepipost/pepipost-php/pulls). We would love to hear your feedback.
+If you are interested in the future direction of this project, please take a look at our open [issues](https://github.com/pepipost/pepipost-sdk-php/issues) and [pull requests](https://github.com/pepipost/pepipost-sdk-php/pulls). We would love to hear your feedback.
 
 <a name="about"></a>
 ## About
-pepipost-php library is guided and supported by the Pepipost Developer Experience Team.
-This pepipost-php library is maintained and funded by Pepipost Ltd. The names and logos for pepipost-php are trademarks of Pepipost Ltd.
+pepipost-php-sdk library is guided and supported by the Pepipost Developer Experience Team.
+This pepipost-php-sdk library is maintained and funded by Pepipost Ltd. The names and logos for pepipost-php-sdk are trademarks of Pepipost Ltd.
 
 <a name="license"></a>
 ## License
