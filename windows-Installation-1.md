@@ -12,7 +12,7 @@ This code has dependencies over external libraries like UniRest. All dependencie
 
 We are trying to cover each of the steps in this installation, which might make this doc a little lengther but the objective is to help you with the simpliest way of installation. 
 
-While Pepipost DX Team is defintely leading this library, but we want this to be more community driven. Your help is needed to realize this goal and to make sure we are building the right things in the right order. We ask that you create ![issues](https://github.com/pepipost/pepipost-sdk-php/issues) and ![pull requests](https://github.com/pepipost/pepipost-sdk-php/pulls) or simply upvote or comment on existing issues or pull requests to keep everyone updated.
+While Pepipost DX Team is defintely leading this library, but we want this to be more community driven. Your help is needed to realize this goal and to make sure we are building the right things in the right order. We ask that you create [issues](https://github.com/pepipost/pepipost-sdk-php/issues) and [pull requests](https://github.com/pepipost/pepipost-sdk-php/pulls) or simply upvote or comment on existing issues or pull requests to keep everyone updated.
 
 We appreciate your continued support, thank you! Let's move ahead on the installation steps:
 
