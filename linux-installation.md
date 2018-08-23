@@ -1,8 +1,6 @@
 # Steps to install Pepipost PHP Code Library on Linux
 
-Developers always :heart: the freedom of working on open Source and why not ?
-
-if it is more secure and free So is our APIs
+Developers always :heart: the freedom of working on open source and why not? - If it's more secure and free. So is our APIs.
 
 ```
 Optional Note: This library will be sending HTTP calls to Pepipost server and hence if you're running any firewalls
@@ -38,35 +36,35 @@ Below Steps will Guide you Step by Step, So that your installation is completed 
   
      Check whether Git is installed or not 
  
-        *Note :: This is not mandatory you can also download zip of SDK if you don't want to clone we will go by git clone method both methods are described below.*
+     *Note :: This is not mandatory you can also download zip of SDK if you don't want to clone we will go by git clone method both methods are described below.*
  
-        **Git method**
+     **Git method**
   
-        Clone [Pepipost PHP Repo](https://github.com/pepipost/pepipost-sdk-php.git)
+     Clone [Pepipost PHP Repo](https://github.com/pepipost/pepipost-sdk-php.git)
       
-        Using **git clone https://github.com/pepipost/pepipost-sdk-php.git**
+     Using **git clone https://github.com/pepipost/pepipost-sdk-php.git**
       
-        ![clone](http://app1.falconide.com/integration_imgs/linux/l3.png)
+     ![clone](http://app1.falconide.com/integration_imgs/linux/l3.png)
       
-        **Zip method**
+     **Zip method**
    
-        Download [Zip here](https://github.com/pepipost/pepipost-sdk-php/archive/master.zip)
+     Download [Zip here](https://github.com/pepipost/pepipost-sdk-php/archive/master.zip)
        
-        unzip in your new directory named **test** (mentioned in point no 2).
+     Unzip in your new directory named **test** (mentioned in point no 2).
 
    6. Resolving Dependencies 
     
-        Change your Directory to **test** (unzipped or cloned directory).
+      Change your Directory to **test** (unzipped or cloned directory).
     
-        use ```composer install``` to install all dependencies
+      use ```composer install``` to install all dependencies
    
-        ![composerinstall](http://app1.falconide.com/integration_imgs/linux/l4.png)
+      ![composerinstall](http://app1.falconide.com/integration_imgs/linux/l4.png)
 
    7. Running Sample Code.
     
-        Make File testSDK.php (open in any editor).
+      Make File testSDK.php (open in any editor).
     
-        Copy and paste Sample Code from [simpleUsage](https://github.com/hellovikram/pepipost-php/blob/feature_x/pepipost-sdk-php/simpleUsage.md) file
+      Copy and paste Sample Code from [simpleUsage](https://github.com/pepipost/pepipost-php/blob/feature_x/pepipost-sdk-php/simpleUsage.md) file
     
    8. Grab your apiKey and SendingDomain from panel
 
