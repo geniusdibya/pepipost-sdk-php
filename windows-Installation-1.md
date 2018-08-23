@@ -19,9 +19,11 @@ We appreciate your continued support, thank you! Let's move ahead on the install
 Step 1. Install [XAMPP](https://www.apachefriends.org/download.html). Skip this step, in case you already have the PHP installed.
 
 Step 2. Install [COMPOSER](https://getcomposer.org/doc/00-intro.md#installation-windows).
+
 ![imgcomposer](http://app1.falconide.com/integration_imgs/windows_without_IDE/1.png)
 
   2.1. As soon as you download composer.exe file from the above link pop will appear below:
+  
   ![installation](http://app1.falconide.com/integration_imgs/windows_without_IDE/2.png)
   
   2.2. Installation directory will be shown at the below:
